@@ -1,0 +1,72 @@
+.portfolioItem {
+    background-image: url(/assets/img/1920x1080/img18.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20rem ;
+    border-radius: 1rem;
+}
+
+.btn-green {
+    background-color:  rgb(60, 121, 60) ;
+    color: white;
+}
+
+.btn-link-light {
+    color:  #3c793c;
+}
+
+.btn-green:hover {
+    color: white;
+    background-color: rgb(86, 138, 86);
+}
+
+.text-green {
+    color:  rgb(60, 121, 60);
+}
+
+.text-green:hover {
+    color:  rgb(86, 138, 86);
+    text-decoration: underline;
+}
+
+
+.bg-green {
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(41,41,41,0) 0%, rgba(255,255,255,0) 0%, rgba(60,121,60,1) 0%, rgba(100,177,100,1) 100%, rgba(255,255,255,0) 100%);
+}
+
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.438);
+}
+
+.card-img-overlay {
+    border-radius: 0.5rem;
+}
+
+.border {
+    border-radius: 0.5rem;
+}
+
+.card-img, .card-img-top{
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+.card-header:first-child {
+    border-radius: .5rem .5rem 0 0;
+}
+ 
+.shadow-black{
+    box-shadow: rgba(78, 78, 78, 0.616) 0 0 10px;
+}
+
+.brandSize{
+    height: 4rem;
+    width: auto;
+}
+
+.cardService {
+    padding: 1rem 1rem;
+}
+
